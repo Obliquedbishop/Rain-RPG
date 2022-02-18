@@ -1,0 +1,8 @@
+Entity don't really have sprites
+Mobs have sprites.
+
+Generally the integers used for directions
+0 - north
+1 - east
+2 - south
+3 - west
